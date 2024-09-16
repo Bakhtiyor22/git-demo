@@ -5,3 +5,5 @@ Journey is more important than a destination!
 -----------------------------------------------------------
 16.09.2024 Today is Monday, I am learning OOP
 Also I am doing EPAM Course.
+I did not enter a management lecture so that I can study EPAM course.
+---------------------------------------------------------------------
