@@ -4,6 +4,7 @@ If you search you will find the solution
 Journey is more important than a destination!
 -----------------------------------------------------------
 16.09.2024 Today is Monday, I am learning OOP
+<<<<<<< HEAD
 Also I am doing EPAM Course.
 I did not enter a management lecture so that I can study EPAM course.
 ---------------------------------------------------------------------
@@ -12,3 +13,5 @@ Daily Scram for QUIZ CAPSTONE project:
 
 We have decided to split in 2groups.
 
+=======
+>>>>>>> d1aeb509493a2cdd8a893e0406e46e858d701dfb
